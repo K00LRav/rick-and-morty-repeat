@@ -1,0 +1,18 @@
+.header-container{
+    background-color: var(--primary-bg);
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: var(--white);
+    padding: 25px;
+}
+
+.theme-button{
+    padding:5px 10px;
+    border-radius:8px;
+    border:none;
+    cursor:pointer;
+    background-color:  var(--light-theme-btn);
+    color:var(--white);
+}
