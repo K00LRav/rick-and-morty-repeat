@@ -15,5 +15,5 @@
 }
 
 .search-container input::placeholder{
-    color: var(--white);
+    color:var(--white);
 }
